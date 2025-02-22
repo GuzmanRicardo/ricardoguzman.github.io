@@ -1,7 +1,13 @@
 ---
-title: Ricardo Guzman
+title: Home
 layout: home
 ---
+
+## Welcome! 
+
+I am a PhD candidate at Aix-Marseille School of Economics(<a href="https://www.amse-aixmarseille.fr/en">AMSE</a>).
+
+<p>I work questions in <strong>economic development</strong> and <strong>agricultural economics</strong> using tools from econometrics and spatial economics. My Job Market Paper studies an expansion of available crop technologies in Tanzania and its implications on adoption and agricultural productivity. My projects generally combine spatial and survey data.</p>
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
