@@ -2,7 +2,6 @@
 title: Home
 layout: home
 permalink: /research/
-permalink: /resources/
 ---
 
 ## Welcome! 
