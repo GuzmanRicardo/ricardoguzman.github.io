@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-layout: research
+permalink: research
 ---
 
 ## Welcome! 
