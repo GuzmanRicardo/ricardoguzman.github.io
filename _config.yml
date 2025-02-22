@@ -3,11 +3,5 @@ description: Your personal academic site.
 theme: just-the-docs
 url: https://guzmanricardo.github.io
 
-nav:
-  - title: Home
-    url: /
-  - title: Research
-    url: /research/
-
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
