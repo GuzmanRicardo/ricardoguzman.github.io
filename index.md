@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Ricardo Guzman
 layout: home
 ---
 
