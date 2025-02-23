@@ -5,7 +5,9 @@ permalink: /
 ---
 # Welcome!
 
-![Site Image]({{ '/assets/profile.jpeg' | relative_url }}){: width="200px" height="auto"}
+<div style="float: left; margin-right: 20px; width: 200px; height: auto;">
+ ![Site Image]({{ '/assets/profile.jpeg' | relative_url }}){: width="200px" height="auto"}
+</div>
 
 I am a PhD candidate at the Aix-Marseille School of Economics ([AMSE]).
 
