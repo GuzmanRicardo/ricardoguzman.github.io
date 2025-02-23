@@ -2,15 +2,10 @@
 title: Home
 layout: home
 permalink: /
-
-
-
 ---
 # Welcome!
 
-<div style="float: left; margin-right: 20px;">
- ![Site Image]({{ '/assets/profile.jpeg' | relative_url }}){: width="200px" height="auto"}
-</div>
+![Site Image]({{ '/assets/profile.jpeg' | relative_url }}){: width="200px" height="auto"}
 
 I am a PhD candidate at the Aix-Marseille School of Economics ([AMSE]).
 
