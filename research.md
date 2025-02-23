@@ -4,8 +4,8 @@ title: Research
 permalink: /research/
 ---
 
-# Welcome to the New Page
-This is a new page under the Home section.
+# Research
 
-[Back to Home](index.md)
+## Work in Progress
+
 
