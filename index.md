@@ -6,7 +6,7 @@ permalink: /
 
 # {{ site.title }}
 
-![Site Image]({{ '/assets/profile.jpg' | relative_url }})
+![Site Image]({{ '/assets/profile.jpeg' | relative_url }})
 
 ## Welcome!
 
