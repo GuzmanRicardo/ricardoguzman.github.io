@@ -3,7 +3,7 @@ title: Home
 layout: home
 permalink: /
 
-![Site Image]({{ '/assets/profile.jpeg' | relative_url }}){: width="400px" height="auto"}
+![Site Image]({{ '/assets/profile.jpeg' | relative_url }}){: width="200px" height="auto"}
 
 ---
 # Welcome!
