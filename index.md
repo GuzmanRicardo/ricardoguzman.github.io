@@ -9,7 +9,7 @@ permalink: /
 
 I am a PhD candidate at the Aix-Marseille School of Economics ([AMSE]).
 
-<p> I work on questions in <strong>economic development</strong> and <strong>agricultural economics</strong> using tools from spatial economics and economic geography. My Job Market Paper studies an expansion of available crop technologies in Tanzania and its implications on adoption and agricultural productivity.  </p>
+I work on questions in ** economic development ** and ** agricultural economics ** using tools from spatial economics and economic geography. My Job Market Paper studies an expansion of available crop technologies in Tanzania and its implications on adoption and agricultural productivity. You can learn more about my research on this page.
 
 This spring, I will be visiting the Institute for International Economic Studies ([IIES]) hosted by Tessa Bold and the Swedish University of Agricultural Sciences ([SLU]) hosted by Shon Ferguson.
 
