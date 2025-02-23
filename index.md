@@ -11,13 +11,13 @@ I am a PhD candidate at the Aix-Marseille School of Economics ([AMSE]).
 
 <p> I work on questions in <strong>economic development</strong> and <strong>agricultural economics</strong> using tools from spatial economics and economic geography. My Job Market Paper studies an expansion of available crop technologies in Tanzania and its implications on adoption and agricultural productivity.  </p>
 
-This spring, I will be visiting the Institute for International Economic Studies (IIES) hosted by Tessa Bold and the Swedish University of Agricultural Sciences (SLU) hosted by Shon Ferguson.
+This spring, I will be visiting the Institute for International Economic Studies ([IIES]) hosted by Tessa Bold and the Swedish University of Agricultural Sciences ([SLU]) hosted by Shon Ferguson.
 
 I am always happy to chat. Please feel free to reach out: ricardo.guzman@univ-amu.fr
 
 [AMSE]: [https://just-the-docs.github.io/just-the-docs/](https://www.amse-aixmarseille.fr/en)
 [IIES]: [https://www.su.se/institute-for-international-economic-studies/]
-[SU
+[SU]: [https://www.slu.se/]
 
 <style>
   a {
