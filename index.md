@@ -17,7 +17,7 @@ I am always happy to chat. Please feel free to reach out: ricardo.guzman@univ-am
 
 [AMSE]: [https://just-the-docs.github.io/just-the-docs/](https://www.amse-aixmarseille.fr/en)
 [IIES]: [https://www.su.se/institute-for-international-economic-studies/]
-[SU]: [https://www.slu.se/]
+[SLU]: [https://www.slu.se/]
 
 <style>
   a {
