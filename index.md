@@ -4,6 +4,10 @@ layout: home
 permalink: /
 ---
 
+# {{ site.title }}
+
+![Site Image]({{ '/assets/profile.jpg' | relative_url }})
+
 ## Welcome!
 
 I am a PhD candidate at the Aix-Marseille School of Economics ([AMSE]).
