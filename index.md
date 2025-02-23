@@ -16,7 +16,7 @@ I am always happy to chat. Feel to get in touch at: ricardo.guzman@univ-amu.fr
 
 <style>
   a {
-      color: #1E90FF; /* Your link color */
+      color: #212121; /* Your link color */
       text-decoration: none; /* Optional: removes underline */
   }
 
